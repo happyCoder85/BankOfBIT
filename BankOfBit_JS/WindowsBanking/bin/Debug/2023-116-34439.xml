@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!-- Bank Transfer File For RBC -->
+<account_update date="2023-04-26" institution="34439" checksum="30159001">
+	<transaction>
+		<institution>44444</institution>
+		<account_no>10053000</account_no>
+		<type>2</type>
+		<amount>50.99</amount>
+		<notes>###ERROR####---Institution Invalid</notes>
+	</transaction>
+	<transaction>
+		<institution>34439</institution>
+		<account_no>1</account_no>
+		<type>2</type>
+		<amount>50.99</amount>
+		<notes>###ERROR####---Account Number Invalid</notes>
+	</transaction>
+	<transaction>
+		<institution>34439</institution>
+		<account_no>10053000</account_no>
+		<type>4</type>
+		<amount>50.99</amount>
+		<notes>###ERROR### -- Type invalid</notes>
+	</transaction>
+	<transaction>
+		<institution>34439</institution>
+		<account_no>10053000</account_no>
+		<type>2</type>
+		<amount>ten</amount>
+		<notes>###ERROR### - Invalid Amount</notes>
+	</transaction>
+<transaction>
+		<institution>34439</institution>
+		<account_no>10033</account_no>
+		<type>2</type>
+		<amount>10</amount>
+		<notes>Valid Withdrawal</notes>
+	</transaction>
+	<transaction>
+		<institution>34439</institution>
+		<account_no>10040</account_no>
+		<type>6</type>
+		<amount>0</amount>
+		<notes>Valid Interest Calculation</notes>
+	</transaction>
+	<transaction>
+		<institution>44444</institution>
+		<account_no>10053000</account_no>
+		<type>2</type>
+		<amount>50.99</amount>
+		<notes>###ERROR####---Institution Invalid</notes>
+	</transaction>
+	<transaction>
+		<institution>34439</institution>
+		<account_no>1</account_no>
+		<type>2</type>
+		<amount>50.99</amount>
+		<notes>###ERROR####---Account Number Invalid</notes>
+	</transaction>
+	<transaction>
+		<institution>34439</institution>
+		<account_no>10053000</account_no>
+		<type>4</type>
+		<amount>50.99</amount>
+		<notes>###ERROR### -- Type invalid</notes>
+	</transaction>
+
+</account_update>

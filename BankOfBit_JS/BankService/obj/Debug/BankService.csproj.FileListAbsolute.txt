@@ -1,0 +1,105 @@
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\BankService.dll.config
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\BankService.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\BankService.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.AssemblyReference.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.CoreCompileInputs.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\BankOfBit_JS.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.SqlServer.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.Optimization.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.Mvc.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Utility.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Razor.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.Razor.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\BankOfBit_JS.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\BankOfBit_JS.dll.config
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.SqlServer.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.Optimization.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.Mvc.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Utility.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Razor.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.Razor.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.CopyComplete
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\WebGrease.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Antlr3.Runtime.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Newtonsoft.Json.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Antlr3.Runtime.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\BankService\bin\Newtonsoft.Json.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\BankService.dll.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\BankService.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\BankService.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\BankOfBit_JS.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\EntityFramework.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\EntityFramework.SqlServer.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Utility.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.Optimization.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.Mvc.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\WebGrease.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.WebPages.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.WebPages.Razor.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.Razor.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Antlr3.Runtime.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Newtonsoft.Json.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\BankOfBit_JS.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\BankOfBit_JS.dll.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\EntityFramework.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\EntityFramework.SqlServer.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Utility.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.Optimization.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.Mvc.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.WebPages.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.WebPages.Razor.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.Razor.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Antlr3.Runtime.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\Newtonsoft.Json.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.AssemblyReference.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.CoreCompileInputs.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.CopyComplete
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\obj\Debug\BankService.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\BankService\obj\Debug\BankService.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\BankService.dll.config
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\BankService.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\BankService.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\BankOfBit_JS.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.SqlServer.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Utility.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.Optimization.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.Mvc.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\WebGrease.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Razor.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.Razor.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Antlr3.Runtime.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Newtonsoft.Json.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\BankOfBit_JS.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\BankOfBit_JS.dll.config
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\EntityFramework.SqlServer.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Utility.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.Optimization.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.Mvc.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Razor.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.Razor.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Antlr3.Runtime.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\Newtonsoft.Json.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.AssemblyReference.cache
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.csproj.CoreCompileInputs.cache
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\obj\Debug\BankServ.BF09E543.Up2Date
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.dll
+C:\Users\jon\source\repos\BankOfBit_JS\BankService\obj\Debug\BankService.pdb

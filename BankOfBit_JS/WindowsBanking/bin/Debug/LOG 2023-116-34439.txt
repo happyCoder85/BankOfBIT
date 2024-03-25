@@ -1,0 +1,19 @@
+----------ERROR-----------
+File: 2023-116-34439.xml
+Institution: <institution>44444</institution>
+Account Number: <account_no>10053000</account_no>
+Transaction Type: <type>2</type>
+Amount: <amount>50.99</amount>
+Note: <notes>###ERROR####---Institution Invalid</notes>
+Nodes: 5
+ERROR: Institution does not match.
+----------ERROR-----------
+File: 2023-116-34439.xml
+Institution: <institution>34439</institution>
+Account Number: <account_no>10053000</account_no>
+Transaction Type: <type>4</type>
+Amount: <amount>50.99</amount>
+Note: <notes>###ERROR### -- Type invalid</notes>
+Nodes: 5
+ERROR: Incorrect type associated with transaction.
+ERROR: Input string was not in a correct format.

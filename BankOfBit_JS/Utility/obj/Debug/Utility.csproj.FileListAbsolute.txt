@@ -1,0 +1,24 @@
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\bin\Debug\Utility.dll
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\bin\Debug\Utility.pdb
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.dll
+C:\Users\lauri\Desktop\NewUtility\Utility\Utility\obj\Debug\Utility.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\Utility\bin\Debug\Utility.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\Utility\bin\Debug\Utility.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\Utility\bin\Debug\Utility.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\Utility\bin\Debug\Utility.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\Utility\obj\Debug\Utility.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\Utility\obj\Debug\Utility.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\bin\Debug\Utility.dll
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\bin\Debug\Utility.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.dll
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Debug\Utility.pdb

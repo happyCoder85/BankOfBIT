@@ -1,0 +1,6 @@
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\bin\Release\Utility.dll
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\bin\Release\Utility.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Release\Utility.csproj.AssemblyReference.cache
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Release\Utility.csproj.CoreCompileInputs.cache
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Release\Utility.dll
+C:\Users\jon\source\repos\BankOfBit_JS\Utility\obj\Release\Utility.pdb

@@ -1,0 +1,357 @@
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.dll.config
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.exe
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.exe.config
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.rsp
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.exe
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.exe.config
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.rsp
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.AppContext.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Console.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.Compression.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Net.Http.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.ValueTuple.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.exe
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.exe.config
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.rsp
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\VBCSCompiler.exe
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Antlr3.Runtime.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.SqlServer.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Newtonsoft.Json.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Owin.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Optimization.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Utility.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\WebGrease.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Mvc.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Razor.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Razor.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.dll.config
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Utility.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Optimization.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Newtonsoft.Json.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Antlr3.Runtime.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.SqlServer.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Mvc.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Razor.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Razor.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.AssemblyReference.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.CopyComplete
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.Migrations.RecreatedDatabase.resources
+C:\Users\jspur\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.dll.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.exe.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.rsp
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.exe.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.rsp
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.AppContext.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Console.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.Compression.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Net.Http.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.ValueTuple.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.exe.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.rsp
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\VBCSCompiler.exe
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Antlr3.Runtime.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\EntityFramework.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\EntityFramework.SqlServer.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Newtonsoft.Json.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Owin.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.Optimization.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Utility.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\WebGrease.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.Mvc.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Razor.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.Razor.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.dll.config
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Utility.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.Optimization.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Newtonsoft.Json.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Antlr3.Runtime.pdb
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\EntityFramework.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\EntityFramework.SqlServer.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.Mvc.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Razor.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.Razor.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.AssemblyReference.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.Migrations.RecreatedDatabase.resources
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.CopyComplete
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.dll
+C:\Users\nturner\OneDrive - Red River College\Desktop\BankOfBit_JS\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.dll.config
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\OnlineBanking.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.exe
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.exe.config
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csc.rsp
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.exe
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.exe.config
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\csi.rsp
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.AppContext.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Console.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.Compression.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Net.Http.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.ValueTuple.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.exe
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.exe.config
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\vbc.rsp
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\VBCSCompiler.exe
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Antlr3.Runtime.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.SqlServer.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Newtonsoft.Json.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Owin.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Optimization.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Utility.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\WebGrease.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Mvc.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Razor.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Razor.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\BankOfBit_JS.dll.config
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Utility.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Optimization.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Newtonsoft.Json.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Antlr3.Runtime.pdb
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\EntityFramework.SqlServer.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Mvc.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Razor.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.Razor.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.AssemblyReference.cache
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.Migrations.RecreatedDatabase.resources
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBa.CBA0C0B7.Up2Date
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.dll
+C:\Users\jon\source\repos\BankOfBit_JS\OnlineBanking\obj\Debug\OnlineBanking.pdb

@@ -1,0 +1,14 @@
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\lauri\Desktop\Assignment 7 Files\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\jspur\source\repos\BankOfBit_JS\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
